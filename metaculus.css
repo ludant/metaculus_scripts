@@ -1,0 +1,61 @@
+@-moz-document domain("metaculus.com") {
+.theme-dark, .theme-modal {
+    --orange500: #ffe0708a
+}
+.content,
+.comment__html.content, .comment_preview.content{
+    font-family: arial, sans-serif;
+    font-size: 0.9rem;
+    width: 330px;
+    margin: auto;
+    line-height: 1.8em
+}
+.question-group-table td {
+    font-size: 0.8rem
+}
+.question-group-table tr {
+    height: 2.7rem;
+}
+.main-container {
+    max-width: 600px;
+}
+blockquote {
+    color: #c7b7b7
+}
+.metac-graph .axis-group .tick text {
+    font: 400 13px Diatype Variable,Diatype,Helvetica,sans-serif
+}
+.input,
+.button.is-primary,
+.button.is-primary:not([disabled]):not(.disabled):hover,
+.textarea {
+    background: #222;
+    color: #d1d1d1
+}
+.main-container {
+    color: #d1d1d1
+}
+.modal__wrapper::before {
+    background: #0008
+}
+.is-public-figure-prediction > h4 mark,
+.is-public-figure > h4 mark {
+    font-family: sans-serif;
+    font-weight: 450;
+    background: #275050
+}
+.track-record-graph .qpt-dashed-line, .track-record-graph .qpt-line {
+    stroke: #2f8
+}
+.is-public-figure {
+    background: #355
+}
+continuous-prediction-control svg.prediction-graph .alt.pdf-line.metac-prediction path, svg.prediction-graph.distribution-graph .alt.pdf-line.metac-prediction path, svg[distribution-graph].metac-graph .alt.pdf-line.metac-prediction path,
+.metac-prediction,
+continuous-prediction-control svg.prediction-graph .alt.pdf-area.metac-prediction path, svg.prediction-graph.distribution-graph .alt.pdf-area.metac-prediction path, svg[distribution-graph].metac-graph .alt.pdf-area.metac-prediction path,
+[metac-time-series-graph] .metaculus-band .band-line,
+[metac-time-series-graph] .metaculus-band .band-area,
+[metac-time-series-graph] .line-group.metaculus-line > path {
+    stroke: #8fd4ec
+}
+}
