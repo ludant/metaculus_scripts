@@ -1,4 +1,4 @@
-DISCLAIMER:
+## DISCLAIMER:
 
 while i am a metaculus staff member, i am not part of the product or development
 team.  nothing in here is indicative of the planned design of metaculus; these
@@ -7,12 +7,17 @@ these scripts are provided as-is; if you have any issues in using them, do not
 bother metaculus staff members, contact
 @[casens](https://www.metaculus.com/accounts/profile/104161/) directly.
 
+----
+
 these scripts can be used with greasemonkey/tampermonkey or stylus:
 
 * **metaculus_flags.js** - a script that makes deterministically-generated
 	avatars styled like flags.  flags are generated on leaderboards and next to
 	comments.  live demo
-	[here](https://ludant.github.io/flaggy/), screenshots on metaculus [here]() and [here]().
+	[here](https://ludant.github.io/flaggy/), screenshots on metaculus   
+	[here](https://github.com/ludant/metaculus_scripts/blob/main/flaggy_example_1.png)
+	and
+	[here](https://github.com/ludant/metaculus_scripts/blob/main/flaggy_example_1.png)
 
 * **metaculus.css** - simple css edits, mostly to make the site as a whole
 	narrower, and comments/question text even narrower.
