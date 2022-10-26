@@ -16,7 +16,7 @@ these scripts can be used with greasemonkey/tampermonkey or stylus:
 	comments.  live demo
 	[here](https://ludant.github.io/flaggy/), screenshots on metaculus [here](https://github.com/ludant/metaculus_scripts/blob/main/flaggy_example_1.png)
 	and
-	[here](https://github.com/ludant/metaculus_scripts/blob/main/flaggy_example_1.png)
+	[here](https://github.com/ludant/metaculus_scripts/blob/main/flaggy_example_2.png)
 
 * **metaculus.css** - simple css edits, mostly to make the site as a whole
 	narrower, and comments/question text even narrower.
