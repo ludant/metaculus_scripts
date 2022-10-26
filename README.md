@@ -14,8 +14,7 @@ these scripts can be used with greasemonkey/tampermonkey or stylus:
 * **metaculus_flags.js** - a script that makes deterministically-generated
 	avatars styled like flags.  flags are generated on leaderboards and next to
 	comments.  live demo
-	[here](https://ludant.github.io/flaggy/), screenshots on metaculus   
-	[here](https://github.com/ludant/metaculus_scripts/blob/main/flaggy_example_1.png)
+	[here](https://ludant.github.io/flaggy/), screenshots on metaculus [here](https://github.com/ludant/metaculus_scripts/blob/main/flaggy_example_1.png)
 	and
 	[here](https://github.com/ludant/metaculus_scripts/blob/main/flaggy_example_1.png)
 
